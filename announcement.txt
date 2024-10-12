@@ -1,0 +1,26 @@
+{
+  "id": 2,
+  "significant": true,
+  "specificLang": "",
+  "title": [
+    {
+      "lang": "en",
+      "text": "更新公告"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "更新公告"
+    }
+  ],
+  "date": "2024.02.07",
+  "content": [
+    {
+      "lang": "en",
+      "text": "春夏之梦移动专属端V3.0发布"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "春夏之梦移动专属端V3.0发布"
+    }
+  ]
+}
