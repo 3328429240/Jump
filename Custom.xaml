@@ -1,6 +1,6 @@
 <local:MyCard Title="公告栏（联网更新）">
     <StackPanel Margin="25,40,23,15">
-        <Image Height="50" HorizontalAlignment="Center" Source="https://s21.ax1x.com/2024/05/01/pkFHo9g.png" />
+        <Image Height="50" HorizontalAlignment="Center" Source="https://s2.loli.net/2024/12/23/qH8nbN9ut7M2sE5.png" />
         <Image Height="50" HorizontalAlignment="Center" Source="https://minecraft-mp.com/regular-banner-305103-5.png" />
         <!-- <TextBlock Margin="0,0,0,4" FontSize="20" HorizontalAlignment="Center" Text="当前在线 " /> -->
     
@@ -15,7 +15,7 @@
             <local:MyButton Margin="0,0,10,0" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
                    Text="官网丨春夏之梦" EventType="打开网页" EventData="https://www.mcd7.cn" />
             <local:MyButton Margin="0,0,10,0" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
-                   Text="论坛丨春夏之梦" EventType="打开网页" EventData="https://bbs.mcd7.cn" />
+                   Text="论坛丨春夏之梦" EventType="打开网页" EventData="https://www.mcd7.cn/index.php" />
             <local:MyButton Margin="0,0,10,0" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Red"
                    Text="刷新主页" EventType="刷新主页" />
         </StackPanel>
@@ -25,7 +25,7 @@
         </StackPanel>
         <local:MyListItem Margin="-15,15,-5,0" 
 		                  Logo="https://wiki.connect.qq.com/wp-content/uploads/2013/10/03_qq_symbol-1-250x300.png" 
-		                  Title="群聊丨Minecraft春夏之梦" 
+		                  Title="群聊丨春夏之梦：第七空间" 
 		                  Info="点击快速加入QQ群！" 
 		                  EventType="打开网页" 
 		                  EventData="https://www.mcd7.cn/qq" 
@@ -42,11 +42,13 @@
 	
 <local:MyCard Title="春夏之梦-第七空间更新日志" Margin="0,15,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" Text="专属客户端V4.1更新 2024/12/22" />
+        <TextBlock Margin="0,0,0,4" Text="- 增加光影以及各大著名光影包" />
+        <TextBlock Margin="0,0,0,4" Text="- 推荐更新至此客户端体验完整内容~" />
         <TextBlock Margin="0,0,0,4" Text="专属客户端V4.0更新 2024/10/8" />
         <TextBlock Margin="0,0,0,4" Text="- 服务器升级1.21.1版本" />
-        <TextBlock Margin="0,0,0,4" Text="- 切换对应客户端体验完整内容~" />
         <TextBlock Margin="0,0,0,4" Text="专属客户端V3.0更新 2024/5/1" />
-        <TextBlock Margin="0,0,0,4" Text="- 就是你现在用的这个.." />
+        <TextBlock Margin="0,0,0,4" Text="- 优化大量内容，1.12.2终版.." />
     </StackPanel>
 </local:MyCard>
     

