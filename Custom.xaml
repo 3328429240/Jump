@@ -1,6 +1,5 @@
 <local:MyCard Title="公告栏（联网更新）">
     <StackPanel Margin="25,40,23,15">
-        <Image Height="50" HorizontalAlignment="Center" Source="https://s2.loli.net/2024/12/23/qH8nbN9ut7M2sE5.png" />
         <Image Height="50" HorizontalAlignment="Center" Source="https://minecraft-mp.com/regular-banner-305103-5.png" />
         <!-- <TextBlock Margin="0,0,0,4" FontSize="20" HorizontalAlignment="Center" Text="当前在线 " /> -->
     
